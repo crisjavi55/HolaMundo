@@ -12,6 +12,8 @@ namespace HolaMundo
         {
             Console.WriteLine("Hola Mundo!");
             Console.WriteLine("Aquí estuvo Yesser .l.");
+            Console.WriteLine("MAMA HUEVO"); 
+            Console.WriteLine("Aqui estuvo el amo de Cristian perras"); 
         }
     }
 }
